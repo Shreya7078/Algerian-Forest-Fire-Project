@@ -31,7 +31,11 @@ bash
 python application.py
 
 
+<<<<<<< HEAD
 3. Access: Open browser → `http://localhost:5000`
+=======
+3. Access: Open browser → http://localhost:5000
+>>>>>>> 557717b855f4d08be81470b99121ab07d4470418
 
 ## Usage
 1. Fill weather parameters in the form
@@ -52,7 +56,14 @@ Classes: 0, Region: 0
 - Dataset: Algerian Forest Fires data
 
 ## Files
+<<<<<<< HEAD
 - `ModelTraining.ipynb`: Complete ML pipeline
 - `application.py`: Flask web server
 - `models/`: Saved model and scaler
 - `templates/`: HTML interface
+=======
+- ModelTraining.ipynb: Complete ML pipeline
+- application.py: Flask web server
+- models/: Saved model and scaler
+- templates/: HTML interface
+>>>>>>> 557717b855f4d08be81470b99121ab07d4470418
