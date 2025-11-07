@@ -27,7 +27,6 @@ def predict_datapoint():
            Rain=float(request.form.get('Rain'))
            FFMC=float(request.form.get('FFMC'))
            DMC=float(request.form.get('DMC'))
-        #    DC=float(request.form.get('DC'))
            ISI=float(request.form.get('ISI'))
            Classes=float(request.form.get('Classes'))
            Region=float(request.form.get('Region'))
